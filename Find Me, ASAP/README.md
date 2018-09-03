@@ -12,7 +12,8 @@ What does this look like?!(https://github.com/Mk-ism/Hackcon18-writeups/blob/mas
 In text file ascii code is written.
 To convert ascii to string i used online tool(https://www.browserling.com/tools/ascii-to-text) which gives string, and flag is hidden in that.
 
-###String:
+##String
+
 ASCII abbreviated from American Standard Code for Information Interchange, is a character encoding standard for electronic communication. ASCII codes represent text in computers, telecommunications equipment, and other devices. Most modern character-encoding schemes are based on ASCII, although they support many additional characters.
 ASCII is the traditional name for the encoding system; the Internet Assigned Numbers Authority (IANA) prefers the updated name US-ASCII, which clarifies that this system was developed in the US and based on the typographical symbols predominantly in use there.
 ASCII is one of the IEEE milestones.
